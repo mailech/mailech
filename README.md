@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkdo2064%2FSpotifire%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw24k_moGx4kBF3y6tU4xFqW&ust=1748635962991000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICMgee-yY0DFQAAAAAdAAAAABAU"  />
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:75%;position:relative;"><iframe width="360" height="270" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9vnpmc"></iframe></div><p><a href="https://imgflip.com/gif/9vnpmc">via Imgflip</a></p></div>
 
 ###
 
@@ -47,7 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mailech/mailech/output/snake.svg" alt="Snake animation" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mailech/mailech/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mailech/mailech/output/github-snake.svg" />
