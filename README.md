@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mailech/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/mailech/count.svg?"/>
 </div>
 
 ###
