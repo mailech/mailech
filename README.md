@@ -73,3 +73,4 @@
 </picture>
 
 ###
+[![Mailech's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mailech&theme=high-contrast)](https://github.com/mailech/github-readme-activity-graph)
